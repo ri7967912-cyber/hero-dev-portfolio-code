@@ -97,6 +97,8 @@ nav .menu a{
   width: 500px;
   height: auto;
   display: block;
+  border-radius:15px;
+  object-fit:cover;
 } 
 
 #banner .banner-content{
